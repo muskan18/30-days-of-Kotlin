@@ -1,0 +1,20 @@
+Today i learnt about the basic operators and types in Kotlin :
+
+
+### To add, subtract,divide we can use +,_,/ operators but we can also peform these calculations as follows:
+
+--> to add 
+    5.plus(4)
+
+--> to multiply
+    2.times(3)
+
+--> to divide
+    2.4.div(2)
+
+## Also i came to know that Kotlin supports two types of variables: changeable and unchangeable. With val, you can assign a value once. If you try to assign something again, you get an error. With var, you can assign a value, then change the value later in the program.
+
+##Strings 
+
+Strings in Kotlin work pretty much like strings in any other programming language using " for strings and ' for single characters, and you can concatenate strings with the + operator. You can create string templates by combining them with values; the $variable name is replaced with the text representing the value. This is called variable interpolation.
+
